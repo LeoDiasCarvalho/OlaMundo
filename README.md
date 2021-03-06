@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro repositorio versionado
+# Ola Mundo
+ Primeiro repositorio curso em video
